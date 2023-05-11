@@ -1,6 +1,4 @@
-# Learning
+# Learniing
 
-## Table of content
-
-example_file.txt
+Hellow world, I love using git!t
  
