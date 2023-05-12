@@ -1,4 +1,4 @@
-# Learniing
+#Learning
 
-Hellow world, I love using git!t
+Hello world, I love using git
  
